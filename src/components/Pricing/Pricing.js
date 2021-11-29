@@ -47,7 +47,7 @@ function Pricing() {
 										))}
 									</PricingCardFeatures>
 									<Button>
-									<Link to='/signup'>Get Started</Link>
+									<Link to='/login'>Get Started</Link>
 									</Button>
 								</PricingCardInfo>
 							</PricingCard>
